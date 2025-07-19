@@ -30,7 +30,7 @@ Our proposed model outperform the Vision only model without the RIR injection in
 
 <img src="https://github.com/byulharang/2025_ASK/blob/main/images/metric.png" alt="PSNR and SSIM" width = "800" />
 
-* **Perceptual Quality with naive eyes:** TR based model estimate the existence of structure like wall
+* **Perceptual Quality with naive eyes:** Proposed model estimate the existence of structure like wall
 
 <img src="https://github.com/byulharang/2025_ASK/blob/main/images/perceptual%20Q.png" alt="Perceptual Result Comparison" width="900" />
 
