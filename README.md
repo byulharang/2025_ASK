@@ -7,7 +7,6 @@ At **Domestic Conference** held by **The Acoustical Society of Korea** (ASK)
 ---
 
 **Research Period:** 2025 Winter-April (*during URP program*) <br>
-**Advisor:** Jung-Woo Choi (KAIST EE) <br>
 **Conference Extended Abstract:** 🧾 [PDF](https://drive.google.com/file/d/1AHi8pkvUU6dJaGWIJIIBKJAqtirqbtON/view?usp=sharing) <br>
 **Conference Presentation:** 🔬 [Google Slide](https://docs.google.com/presentation/d/1HhTRdiQzxTSDWnr006PSXB0aY1t0WpsM3ibcu-Sb260/edit?usp=sharing) <br>
 **Data & Experiment Logs:** 🌐 [Notion](https://kiwi-primrose-e33.notion.site/URP-16d30761238f8068aec6f9576ef4bee2?source=copy_link) *Identical links in URP repo*
